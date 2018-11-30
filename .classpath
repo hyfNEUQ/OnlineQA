@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="F:/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="F:/slf4j-simple-1.8.0-beta2.jar"/>
+	<classpathentry kind="lib" path="F:/log4j-slf4j-impl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/logback-classic-1.3.0-alpha4.jar"/>
+	<classpathentry kind="lib" path="F:/logback-core-1.3.0-alpha4.jar"/>
+	<classpathentry kind="lib" path="F:/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="F:/xercesImpl-2.12.0.jar"/>
+	<classpathentry kind="lib" path="F:/log4j-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="F:/log4j-1.2-api-2.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="F:/Spring_Jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Spring_Jar/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="F:/Spring_Jar/spring-aop-5.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring_Jar/spring-aspects-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring_Jar/spring-beans-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring_Jar/spring-context-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring_Jar/spring-core-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring_Jar/spring-expression-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring_Jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="F:/Spring_Jar/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
